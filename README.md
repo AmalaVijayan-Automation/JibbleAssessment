@@ -9,11 +9,11 @@ Katalon Studio Should be installed
 Tool used for Automation is Katalon Studio - Katalon Studio is a free and easy-to-use automated functional and regression testing platform
 
 On opening the Project it will load with the following sections:
-Profiles
+# Profiles
 
   General - where global variables can be defined
 
-Test Cases
+# Test Cases
 
   Editing 
   
@@ -27,27 +27,27 @@ Test Cases
   
   No todos
 
-Object Repository
+# Object Repository
 
   ToDoMVC
       Which contains elements
 
-Test Suite
+# Test Suite
 
 Where we can create test suites which is a collection of test cases
     ToDo MVC
 
-Data Files
+# Data Files
 
  To define data inputs for data driven test
     Enviornment
     InputValues
 
-Checkpoints
+# Checkpoints
 
  To add checkpoints in tests
 
-Keywords
+# Keywords
 
  To create keywords which can be reusable within the project
  
@@ -56,15 +56,15 @@ Here we have,
      commonUtils > Common
      toDo > todoFunctionalities
 
-Test Listeners
+# Test Listeners
 
  To configure Listeners for a particular test
 
-Reports
+# Reports
 
  Reports will be generated in html format after every run(test suite run)
 
-Include
+# Include
 
  Here we can create cucumber feature files to have BDD implementation
  
