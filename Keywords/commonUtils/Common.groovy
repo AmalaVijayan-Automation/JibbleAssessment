@@ -20,8 +20,8 @@ import internal.GlobalVariable
 
 public class Common {
 
-	//URL Navigation
-	
+	//URL Navigation to ToDo Website
+
 	@Keyword
 	def navigateToURL(){
 
